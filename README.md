@@ -78,7 +78,7 @@ A simple WhatsApp User bot.
 
 6. **Enter Environment Variables:**
    ```sh
-   echo "SESSION_ID = 28_7_9bf9_1154_036e
+   echo "SESSION_ID = 28_7_3201_1a4c_2bbe
    PREFIX = .
    STICKER_PACKNAME = 𝑺 𝜟 𝜝 𝜟 𝑅 𝛪 /// 🌩️
    ALWAYS_ONLINE = true

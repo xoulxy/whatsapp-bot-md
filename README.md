@@ -107,11 +107,11 @@ A simple WhatsApp User bot.
 8. **Start and Stop the Bot:**
    - To start the bot:
      ```sh
-     pm2 start . --name botName --attach --time
+     pm2 start . --name botxoul --attach --time
      ```
    - To stop the bot:
      ```sh
-     pm2 stop botName
+     pm2 stop botxoul
      ```
 
 ### 4. Deploy on Replit

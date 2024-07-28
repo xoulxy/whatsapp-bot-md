@@ -71,8 +71,8 @@ A simple WhatsApp User bot.
 
 5. **Clone Repository and Install Packages:**
    ```sh
-   git clone https://github.com/xoulxy/whatsapp-bot-md botxoull
-   cd botxoull
+   git clone https://github.com/xoulxy/whatsapp-bot-md botxoully
+   cd botxoully
    yarn install
    ```
 
@@ -107,7 +107,7 @@ A simple WhatsApp User bot.
 8. **Start and Stop the Bot:**
    - To start the bot:
      ```sh
-     pm2 start . --name botxoull --attach --time
+     pm2 start . --name botxoully --attach --time
      ```
    - To stop the bot:
      ```sh

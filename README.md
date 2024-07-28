@@ -71,17 +71,17 @@ A simple WhatsApp User bot.
 
 5. **Clone Repository and Install Packages:**
    ```sh
-   git clone https://github.com/lyfe00011/whatsapp-bot-md botName
-   cd botName
+   git clone https://github.com/xoulxy/whatsapp-bot-md botxoul
+   cd botxoul
    yarn install
    ```
 
 6. **Enter Environment Variables:**
    ```sh
-   echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
+   echo "SESSION_ID = 28_7_9bf9_1154_036e
    PREFIX = .
-   STICKER_PACKNAME = LyFE
-   ALWAYS_ONLINE = false
+   STICKER_PACKNAME = 𝑺 𝜟 𝜝 𝜟 𝑅 𝛪 /// 🌩️
+   ALWAYS_ONLINE = true
    RMBG_KEY = null
    LANGUAG = en
    WARN_LIMIT = 3
@@ -89,7 +89,7 @@ A simple WhatsApp User bot.
    BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
    MAX_UPLOAD = 200
    REJECT_CALL = false
-   SUDO = 989876543210
+   SUDO = 919633605648
    TZ = Asia/Kolkata
    VPS = true
    AUTO_STATUS_VIEW = true
